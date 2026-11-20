@@ -93,7 +93,7 @@ internal
 extranet
 office
 exchange
-autodiscoverr
+autodiscover
 owa
 m
 mobile
